@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PrimeraAppXamarin.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#F47E08" Padding="24" CornerRadius="0">
+            <Label Text="Bienvenido a la práctica 1!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Text="Hay más de donde vino este, quedate conmigo durante este trimestre para ver!" HorizontalTextAlignment="Center" FontSize="Title" Padding="30,10"/>
+       
+    </StackLayout>
+
+</ContentPage>
